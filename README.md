@@ -1,1 +1,2 @@
 flask_upload_client
+請先安裝該函式庫request函式庫 (pip3 install request2)
